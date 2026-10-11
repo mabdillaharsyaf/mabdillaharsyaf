@@ -21,4 +21,3 @@
 ![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white)
 ![MAMP](https://img.shields.io/badge/MAMP-005882?style=for-the-badge&logo=mamp&logoColor=white)
 ![draw.io](https://img.shields.io/badge/draw.io-F08705?style=for-the-badge&logo=diagramsdotnet&logoColor=white)
-![AI Agent](https://img.shields.io/badge/AI%20Agent-00A67E?style=for-the-badge&logo=openai&logoColor=white)
